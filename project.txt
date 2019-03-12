@@ -11,3 +11,5 @@ We may need to bring a third person with Python programming skills into the proj
 The third team member needs to be competent in both Python and R. They
 also need to be familiar with matplotlib and ggplot.
 Version control skills would also be useful.
+
+We may also used gitlab and bitbucket.

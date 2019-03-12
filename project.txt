@@ -1,0 +1,4 @@
+Project Outline
+===============
+
+Some initial data analysis to identify how inflammation changes over time after surgery.

@@ -13,3 +13,5 @@ also need to be familiar with matplotlib and ggplot.
 Version control skills would also be useful.
 
 We may also used gitlab and bitbucket.
+
+We also can used Travis CL to do the automated testing for us.
